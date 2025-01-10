@@ -17,6 +17,7 @@ This project is for a chicken water feeder that controls the tempature of the wa
 - It shall allow for setting the temperature range
 - It shall be easily moveable
 - It shall be installed manually (powering each device individually) - this might change
+- it shall turn off when water level is too low
 
 ### Power
 
@@ -37,11 +38,13 @@ Use regular 120v for prototype (one outlet)
 - Heating element https://www.amazon.com/gp/product/B0893T67LX/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1
 - Thermostat/Sensor
 - Rpi/breadboard/resisters/relays/jumpers/etc. (basically a well equiped start kit)
+- float sensor (switch or capacitive)
 
 #### Mechanical
 
 - 5 gallon bucket (we have plenty around, cheap, easy to get)
 - brackets/general hardware
+- float apparatus 
 
 #### Development Tools
 - EveryCircuit
