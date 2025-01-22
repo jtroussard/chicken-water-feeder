@@ -52,7 +52,14 @@ Use regular 120v for prototype (one outlet)
 #### Mechanical
 
 - 5 gallon bucket (we have plenty around, cheap, easy to get)
-- brackets/general hardware 
+- brackets/general hardware
+
+# TODO
+
+- add branch pertections for main branch
+- J: try to connect the sensor to the rpi
+- J: get an ardunio
+- C: set up your ardunio
 
 #### Development Tools
 - EveryCircuit
