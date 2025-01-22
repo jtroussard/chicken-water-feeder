@@ -38,13 +38,12 @@ Use regular 120v for prototype (one outlet)
 - Heating element https://www.amazon.com/gp/product/B0893T67LX/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1
 - Thermostat/Sensor
 - Rpi/breadboard/resisters/relays/jumpers/etc. (basically a well equiped start kit)
-- float sensor (switch or capacitive)
+- liquid level sensor (Taidacent Non Contact Liquid Level Sensor) https://a.co/d/iqHP8Fy
 
 #### Mechanical
 
 - 5 gallon bucket (we have plenty around, cheap, easy to get)
-- brackets/general hardware
-- float apparatus 
+- brackets/general hardware 
 
 #### Development Tools
 - EveryCircuit
