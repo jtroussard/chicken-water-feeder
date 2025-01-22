@@ -37,8 +37,17 @@ Use regular 120v for prototype (one outlet)
 - 2 power elements (controller and heating element)
 - Heating element https://www.amazon.com/gp/product/B0893T67LX/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1
 - Thermostat/Sensor
+  - DATASHEET: `https://cdn.sparkfun.com/datasheets/Sensors/Temp/DS18B20.pdf`
+  - github repo to look at: `https://github.com/matmunk/DS18B20`
 - Rpi/breadboard/resisters/relays/jumpers/etc. (basically a well equiped start kit)
 - liquid level sensor (Taidacent Non Contact Liquid Level Sensor) https://a.co/d/iqHP8Fy
+
+- LED COLORS
+  - green: system on
+  - red: heat on
+  - blue: cold (maybe not going to use)
+  - yellow: warm
+  - white: low water
 
 #### Mechanical
 
