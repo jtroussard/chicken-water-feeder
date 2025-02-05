@@ -39,6 +39,7 @@ Use regular 120v for prototype (one outlet)
 - Thermostat/Sensor
   - DATASHEET: `https://cdn.sparkfun.com/datasheets/Sensors/Temp/DS18B20.pdf`
   - github repo to look at: `https://github.com/matmunk/DS18B20`
+  - Determined that -127*C is actuall an error code
 - Rpi/breadboard/resisters/relays/jumpers/etc. (basically a well equiped start kit)
 - liquid level sensor (Taidacent Non Contact Liquid Level Sensor) https://a.co/d/iqHP8Fy
 
