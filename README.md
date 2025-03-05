@@ -5,6 +5,11 @@ Chicken water feeder project repository. Plans, software, documentation, meeting
 
 This project is for a chicken water feeder that controls the tempature of the water to prevent freezing, negating the need to manage animal water supply during the colder months.
 
+## PIN
+
+- led POC is working
+- build the heater interface to plug into the red led
+
 ## Goals
 
 1. We only want to create a prototype.
