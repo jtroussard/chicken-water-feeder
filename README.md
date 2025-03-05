@@ -40,6 +40,7 @@ Use regular 120v for prototype (one outlet)
   - DATASHEET: `https://cdn.sparkfun.com/datasheets/Sensors/Temp/DS18B20.pdf`
   - github repo to look at: `https://github.com/matmunk/DS18B20`
   - Determined that -127*C is actuall an error code
+  - Determined original setup might have been a bad parameter passed to the pinMode method, regardless added a physical pull up resistor of 5K1 oHms and observered reative tempature readings in serial monitor. Once heated temperature went up, when cooled the temperature went down.
 - Rpi/breadboard/resisters/relays/jumpers/etc. (basically a well equiped start kit)
 - liquid level sensor (Taidacent Non Contact Liquid Level Sensor) https://a.co/d/iqHP8Fy
 
@@ -57,10 +58,7 @@ Use regular 120v for prototype (one outlet)
 
 # TODO
 
-- add branch pertections for main branch
-- J: try to connect the sensor to the rpi
-- J: get an ardunio
-- C: set up your ardunio
+1. Calibrate temperature sensor within a few degrees
 
 #### Development Tools
 - EveryCircuit
